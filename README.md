@@ -1,1 +1,1 @@
-# cinema-microservices
+# cinema
